@@ -11,7 +11,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 - [x] 3. Write a program that takes two numbers as input from the user (`scanf`) and prints their sum.
 - [x] 4. Implement the "FizzBuzz" challenge: print numbers from 1 to 100, replacing multiples of 3 with "Fizz", 5 with "Buzz", and both with "FizzBuzz".
 - [x] 5. Write a function that takes an integer as an argument and returns the value multiplied by two. Call it from `main`.
-- [ ] 6. Write a program with one global variable and a function with a local variable of the same name. Print both to demonstrate variable scope.
+- [x] 6. Write a program with one global variable and a function with a local variable of the same name. Print both to demonstrate variable scope.
 - [ ] 7. Write a program that declares a string (char array), initializes it, and prints its length using `strlen`.
 - [ ] 8. Write a program that prints its own name and the number of command-line arguments it received (`argc`, `argv`).
 - [ ] 9. Use `lldb` to set a breakpoint in your FizzBuzz program and step through the loop 5 times, inspecting the counter variable.
