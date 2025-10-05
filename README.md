@@ -6,12 +6,6 @@ This repository tracks my progress through a list of 100 programming tasks, from
 
 ## The Checklist
 
-You've made an excellent point. "Understand" is a goal, not an action. A good roadmap should be a series of concrete tasks you can complete and check off.
-
-I've revised the entire list to ensure every single step is an actionable, hands-on task. Each item now asks you to write a specific program, implement a feature, or produce a tangible output.
-
-Here is the fully revised, actionable roadmap for learning C for Kernel Development.
-
 - [x] 1. Write a C program that prints "Hello, World!" to the console and compiles with `clang`.
 - [x] 2. Write a program that declares an integer, a character, and a float, assigns them values, and prints the values and their sizes using `sizeof`.
 - [ ] 3. Write a program that takes two numbers as input from the user (`scanf`) and prints their sum.
