@@ -13,7 +13,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 - [x] 5. Write a function that takes an integer as an argument and returns the value multiplied by two. Call it from `main`.
 - [x] 6. Write a program with one global variable and a function with a local variable of the same name. Print both to demonstrate variable scope.
 - [x] 7. Write a program that declares a string (char array), initializes it, and prints its length using `strlen`.
-- [ ] 8. Write a program that prints its own name and the number of command-line arguments it received (`argc`, `argv`).
+- [x] 8. Write a program that prints its own name and the number of command-line arguments it received (`argc`, `argv`).
 - [ ] 9. Use `lldb` to set a breakpoint in your FizzBuzz program and step through the loop 5 times, inspecting the counter variable.
 - [ ] 10. Write a program that uses `#define` to create a constant and `#ifdef` to conditionally compile a `printf` statement.
 - [ ] 11. Define a `struct` to represent a `Point` with `x` and `y` coordinates. Create an instance and print its members.
