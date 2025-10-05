@@ -13,7 +13,7 @@ I've revised the entire list to ensure every single step is an actionable, hands
 Here is the fully revised, actionable roadmap for learning C for Kernel Development.
 
 - [x] 1. Write a C program that prints "Hello, World!" to the console and compiles with `clang`.
-- [ ] 2. Write a program that declares an integer, a character, and a float, assigns them values, and prints the values and their sizes using `sizeof`.
+- [x] 2. Write a program that declares an integer, a character, and a float, assigns them values, and prints the values and their sizes using `sizeof`.
 - [ ] 3. Write a program that takes two numbers as input from the user (`scanf`) and prints their sum.
 - [ ] 4. Implement the "FizzBuzz" challenge: print numbers from 1 to 100, replacing multiples of 3 with "Fizz", 5 with "Buzz", and both with "FizzBuzz".
 - [ ] 5. Write a function that takes an integer as an argument and returns the value multiplied by two. Call it from `main`.
