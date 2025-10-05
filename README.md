@@ -7,7 +7,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 ## The Checklist
 
 - [x] Display "Hello, World!"
-- [ ] Get user input and print it back.
+- [x] Get user input and print it back.
 - [ ] Create a button that shows an alert when clicked.
 - [ ] Make a counter that increments with each button click.
 - [ ] Build a simple calculator for addition.
