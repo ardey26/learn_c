@@ -18,7 +18,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 - [x] 10. Write a program that uses `#define` to create a constant and `#ifdef` to conditionally compile a `printf` statement.
 - [x] 11. Define a `struct` to represent a `Point` with `x` and `y` coordinates. Create an instance and print its members.
 - [x] 12. Write a program that opens a file named `test.txt`, writes "Hello, File!" into it, and closes it. Verify the file's content.
-- [ ] 13. Write a C program that mimics the `cat` command: it should open a file specified by a command-line argument and print its contents to the console.
+- [x] 13. Write a C program that mimics the `cat` command: it should open a file specified by a command-line argument and print its contents to the console.
 - [ ] 14. Create two `.c` files and one `.h` file. Define a function in one `.c` file, declare it in the `.h` file, and call it from the other `.c` file.
 - [ ] 15. Compile the multi-file project from the previous step into a single executable.
 - [ ] 16. Write a `Makefile` with rules to compile your multi-file project, including a `clean` rule to remove object files and the executable.
