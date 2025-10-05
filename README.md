@@ -1,4 +1,4 @@
-# My Programming Journey: 100 Steps to Mastery
+# My C Journey: 100 Steps to Mastery
 
 This repository tracks my progress through a list of 100 programming tasks, from "Hello, World!" to building an operating system kernel. Each checked item represents a completed challenge on my journey to becoming a proficient developer.
 
