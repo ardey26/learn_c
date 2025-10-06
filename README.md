@@ -25,7 +25,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 - [x] 17. Write a function that attempts to modify a `const` variable and observe the compiler error.
 - [x] 18. Write a program that reads key-value pairs from a text file (e.g., `SETTING=VALUE`) and prints them.
 - [x] 19. Implement a stack data structure using a `struct` and an array, including `push` and `pop` functions.
-- [ ] 20. Write a C program that mimics the `wc -l` command: it should count the number of lines in a file specified by a command-line argument.
+- [x] 20. Write a C program that mimics the `wc -l` command: it should count the number of lines in a file specified by a command-line argument.
 - [ ] 21. Write a program that declares an integer, creates a pointer to it, prints the address, and then uses the pointer to change the integer's value.
 - [ ] 22. Create an array of 5 integers. Create a pointer to the first element and use pointer arithmetic to access and print each element.
 - [ ] 23. Create an array of `Point` structs. Create a pointer to the first struct and use it to access the `x` and `y` members of the second element.
