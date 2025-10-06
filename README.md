@@ -23,7 +23,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 - [x] 15. Compile the multi-file project from the previous step into a single executable.
 - [x] 16. Write a `Makefile` with rules to compile your multi-file project, including a `clean` rule to remove object files and the executable.
 - [x] 17. Write a function that attempts to modify a `const` variable and observe the compiler error.
-- [ ] 18. Write a program that reads key-value pairs from a text file (e.g., `SETTING=VALUE`) and prints them.
+- [x] 18. Write a program that reads key-value pairs from a text file (e.g., `SETTING=VALUE`) and prints them.
 - [ ] 19. Implement a stack data structure using a `struct` and an array, including `push` and `pop` functions.
 - [ ] 20. Write a C program that mimics the `wc -l` command: it should count the number of lines in a file specified by a command-line argument.
 - [ ] 21. Write a program that declares an integer, creates a pointer to it, prints the address, and then uses the pointer to change the integer's value.
