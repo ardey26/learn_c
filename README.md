@@ -29,7 +29,7 @@ This repository tracks my progress through a list of 100 programming tasks, from
 - [x] 21. Write a program that declares an integer, creates a pointer to it, prints the address, and then uses the pointer to change the integer's value.
 - [x] 22. Create an array of 5 integers. Create a pointer to the first element and use pointer arithmetic to access and print each element.
 - [x] 23. Create an array of `Point` structs. Create a pointer to the first struct and use it to access the `x` and `y` members of the second element.
-- [ ] 24. Write two functions, `add` and `subtract`. Create a function pointer and use it to call both functions.
+- [x] 24. Write two functions, `add` and `subtract`. Create a function pointer and use it to call both functions.
 - [ ] 25. Write a program and draw a diagram of its memory layout, labeling where the main function, global variables, and local variables are stored.
 - [ ] 26. Write a program that allocates memory for 10 integers using `malloc`, fills it with values, prints them, and then frees the memory.
 - [ ] 27. Write a program that intentionally creates a memory leak (allocate without freeing) and a dangling pointer (free then use).
